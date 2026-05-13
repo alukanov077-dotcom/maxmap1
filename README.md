@@ -29,5 +29,5 @@ npm run build
 
 ## Деплой в Telegram
 
-Задеплойте папку `dist/` на любой статический хостинг, затем в BotFather создайте Web App и укажите URL.
+[Задеплойте папку `dist/` на любой статический хостинг, затем в BotFather создайте Web App и укажите URL.](https://maxmap1.vercel.app/)
 
